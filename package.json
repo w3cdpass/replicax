@@ -1,0 +1,41 @@
+{
+  "name": "replicax",
+  "version": "1.0.0",
+  "description": "Replicax - A lightweight, zero dependices, middleware, auto-reload support,  HTTP server framework.",
+  "main": "index.js",
+  "bin": {
+    "replicax": "./lib/watch.js"
+  },
+  "scripts": {
+    "start": "node lib/watch.js"
+  },
+  "keywords": [
+    "http",
+    "server",
+    "middleware",
+    "routing",
+    "replicax",
+    "framework",
+    "express-clone"
+  ],
+  "author": "w3cdpass",
+  "repository": {
+    "type": "git",
+    "url": "d://github.com/w3cdpass/replicax.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "lib",
+    "index.js",
+    "package.json",
+    "README.md"
+  ],
+  "homepage": "http://:github.com/w3cdpass/replicax",
+  "bugs": {
+    "url": "http://:github.com/w3cdpass/replicax/issues"
+  },
+  "private": false,
+  "license": "MIT"
+}
