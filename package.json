@@ -21,7 +21,7 @@
   "author": "w3cdpass",
   "repository": {
     "type": "git",
-    "url": "d://github.com/w3cdpass/replicax.git"
+    "url": "https://github.com/w3cdpass/replicax.git"
   },
   "engines": {
     "node": ">=14.0.0"
@@ -32,9 +32,9 @@
     "package.json",
     "README.md"
   ],
-  "homepage": "http://:github.com/w3cdpass/replicax",
+  "homepage": "https://github.com/w3cdpass/replicax.git",
   "bugs": {
-    "url": "http://:github.com/w3cdpass/replicax/issues"
+    "url": "https://github.com/w3cdpass/replicax/issues"
   },
   "private": false,
   "license": "MIT"
